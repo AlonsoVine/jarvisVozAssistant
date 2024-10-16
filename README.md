@@ -1,4 +1,5 @@
 # Asistente Virtual con Reconocimiento de Voz
+![IMG](jarvis_readme.png "imagen header")
 
 Este es un proyecto de **asistente virtual** desarrollado en Python, que permite realizar varias tareas mediante **comandos de voz**. El asistente puede realizar acciones como abrir aplicaciones, buscar en internet, consultar el clima, crear recordatorios, y enviar correos electrónicos, entre otros.
 
